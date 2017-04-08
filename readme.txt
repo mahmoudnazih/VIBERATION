@@ -5,4 +5,5 @@ Members work should be updated.
 
 Read about git and how to use it
 
+Processing file can read from arduino and interact with drawings on PC
 
