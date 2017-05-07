@@ -1,9 +1,6 @@
-This repo for viberation project
-it includes the software subteam work and the interface subteam work
+#This repo for viberation project
+#it includes the arduino code to communicate with MPU6050.
+#The code in the .zip file.
 
-Members work should be updated.
-
-Read about git and how to use it
-
-Processing file can read from arduino and interact with drawings on PC
+#viberation.m file is a GNU Octave code that receives the data sent from arduino and perform the data analysis
 
